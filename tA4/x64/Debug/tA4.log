@@ -1,0 +1,7 @@
+﻿  tA4.cpp
+D:\ccc\tA4\tA4\tA4.cpp(44,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\ccc\tA4\tA4\tA4.cpp(57,35): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+D:\ccc\tA4\tA4\tA4.cpp(68,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\ccc\tA4\tA4\tA4.cpp(93,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ccc\tA4\tA4\tA4.cpp(104,24): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  tA4.vcxproj -> D:\ccc\tA4\x64\Debug\tA4.exe
